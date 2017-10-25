@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Lab3</string>
+    <string name="TBD">TBD</string>
+    <string name="more_info">更多产品信息</string>
+    <string name="item1">一键下单</string>
+    <string name="item2">分享商品</string>
+    <string name="item3">不感兴趣</string>
+    <string name="item4">查看更多商品促销信息</string>
+</resources>
